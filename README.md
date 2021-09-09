@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grula&show_icons=true&theme=tokyonight)](https://github.com/Grula)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grula)](https://github.com/Grula)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grula)](https://github.com/Grula) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grula&layout=compact)](https://github.com/Grula)
 
 
